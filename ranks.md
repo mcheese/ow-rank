@@ -1,102 +1,102 @@
-| OW Rank | Distribution | LoL Rank | CSGO Rank |
-| :------ | :----------- | :------- | :-------- |
-| 1 | 0 | Bronze V | Silver I |
-| 2 | 0 | Bronze V | Silver I |
-| 3 | 0 | Bronze V | Silver I |
-| 4 | 0 | Bronze V | Silver I |
-| 5 | 0 | Bronze V | Silver I |
-| 6 | 0 | Bronze V | Silver I |
-| 7 | 0 | Bronze V | Silver I |
-| 8 | 0 | Bronze V | Silver I |
-| 9 | 0 | Bronze V | Silver I |
-| 10 | 0 | Bronze V | Silver I |
-| 11 | 0 | Bronze V | Silver I |
-| 12 | 0 | Bronze V | Silver I |
-| 13 | 0 | Bronze V | Silver I |
-| 14 | 0 | Bronze V | Silver I |
-| 15 | 0 | Bronze V | Silver I |
-| 16 | 0 | Bronze V | Silver I |
-| 17 | 0.000027 | Bronze V | Silver I |
-| 18 | 0.000054 | Bronze V | Silver I |
-| 19 | 0.000081 | Bronze V | Silver I |
-| 20 | 0.0000988 | Bronze V | Silver I |
-| 21 | 0.000108 | Bronze V | Silver I |
-| 22 | 0.000135 | Bronze V | Silver I |
-| 23 | 0.0001527 | Bronze V | Silver I |
-| 24 | 0.000189 | Bronze V | Silver I |
-| 25 | 0.000270 | Bronze V | Silver I |
-| 26 | 0.000467 | Bronze V | Silver I |
-| 27 | 0.000611 | Bronze V | Silver I |
-| 28 | 0.0008535 | Bronze V | Silver I |
-| 29 | 0.001294 | Bronze V | Silver I |
-| 30 | 0.001976 | Bronze V | Silver I |
-| 31 | 0.0030096 | Bronze V | Silver I |
-| 32 | 0.0045368 | Bronze V | Silver I |
-| 33 | 0.006558 | Bronze V | Silver I |
-| 34 | 0.0093341 | Bronze V | Silver I |
-| 35 | 0.013044 | Bronze V | Silver I |
-| 36 | 0.017815 | Bronze V | Silver I |
-| 37 | 0.024885 | Bronze V | Silver I |
-| 38 | 0.034192 | Bronze V | Silver I |
-| 39 | 0.045907 | Bronze V | Silver II |
-| 40 | 0.061269 | Bronze IV | Silver II |
-| 41 | 0.0811862 | Bronze IV | Silver III |
-| 42 | 0.104068 | Bronze IV | Silver III |
-| 43 | 0.132627 | Bronze III | Silver IV |
-| 44 | 0.166972 | Bronze III | Silver IV |
-| 45 | 0.206788 | Bronze II | Silver Elite |
-| 46 | 0.250827 | Bronze II | Silver Elite Master |
-| 47 | 0.299617 | Bronze I | Silver Elite Master |
-| 48 | 0.352774 | Silver V | Gold Nova I |
-| 49 | 0.4091113 | Silver V | Gold Nova I |
-| 50 | 0.465422 | Silver IV | Gold Nova II |
-| 51 | 0.529404 | Silver III | Gold Nova III |
-| 52 | 0.589730 | Silver II | Gold Nova Master |
-| 53 | 0.6469473 | Silver II | Gold Nova Master |
-| 54 | 0.700706 | Gold V | Master Guardian I |
-| 55 | 0.7495239 | Gold V | Master Guardian I |
-| 56 | 0.793338 | Gold IV | Master Guardian II |
-| 57 | 0.832237 | Gold III | Master Guardian Elite |
-| 58 | 0.864678 | Gold II | Distringuished Master Guardian |
-| 59 | 0.892141 | Gold I | Distringuished Master Guardian |
-| 60 | 0.9136930 | Platinum V | Legendary Eagle |
-| 61 | 0.9361165 | Platinum IV | Legendary Eagle |
-| 62 | 0.951039 | Platinum III | Legendary Eagle Master |
-| 63 | 0.963472 | Platinum III | Legendary Eagle Master |
-| 64 | 0.972348 | Platinum II | Supreme Master First Class |
-| 65 | 0.979283 | Platinum I | Supreme Master First Class |
-| 66 | 0.9844851 | Diamond V | Supreme Master First Class |
-| 67 | 0.988447 | Diamond V | Supreme Master First Class |
-| 68 | 0.991232 | Diamond V | Supreme Master First Class |
-| 69 | 0.993316 | Diamond IV | Supreme Master First Class |
-| 70 | 0.994637 | Diamond IV | The Global Elite |
-| 71 | 0.996101 | Diamond III | The Global Elite |
-| 72 | 0.9972061 | Diamond III | The Global Elite |
-| 73 | 0.997880 | Diamond III | The Global Elite |
-| 74 | 0.998545 | Diamond II | The Global Elite |
-| 75 | 0.9990208 | Diamond I | The Global Elite |
-| 76 | 0.999443 | Diamond I | The Global Elite |
-| 77 | 0.999605 | Diamond I | The Global Elite |
-| 78 | 0.999757 | Diamond I | The Global Elite |
-| 79 | 0.9998832 | Diamond I | The Global Elite |
-| 80 | 0.999919 | Diamond I | The Global Elite |
-| 81 | 0.999964 | Diamond I | The Global Elite |
-| 82 | 0.999973 | Diamond I | The Global Elite |
-| 83 | 0.9999910 | Diamond I | The Global Elite |
-| 84 | 1 | Diamond I | The Global Elite |
-| 85 | 1 | Diamond I | The Global Elite |
-| 86 | 1 | Diamond I | The Global Elite |
-| 87 | 1 | Diamond I | The Global Elite |
-| 88 | 1 | Diamond I | The Global Elite |
-| 89 | 1 | Diamond I | The Global Elite |
-| 90 | 1 | Diamond I | The Global Elite |
-| 91 | 1 | Diamond I | The Global Elite |
-| 92 | 1 | Diamond I | The Global Elite |
-| 93 | 1 | Diamond I | The Global Elite |
-| 94 | 1 | Diamond I | The Global Elite |
-| 95 | 1 | Diamond I | The Global Elite |
-| 96 | 1 | Diamond I | The Global Elite |
-| 97 | 1 | Diamond I | The Global Elite |
-| 98 | 1 | Diamond I | The Global Elite |
-| 99 | 1 | Diamond I | The Global Elite |
-| 100 | 1 | Diamond I | The Global Elite |
+| OW Rank | Distribution | LoL Rank | CSGO Rank | Dota 2 MMR |
+| :------ | :----------- | :------- | :-------- | :--------- |
+| 1 | 0 | Bronze V | Silver I | 0 |
+| 2 | 0 | Bronze V | Silver I | 0 |
+| 3 | 0 | Bronze V | Silver I | 0 |
+| 4 | 0 | Bronze V | Silver I | 0 |
+| 5 | 0 | Bronze V | Silver I | 0 |
+| 6 | 0 | Bronze V | Silver I | 0 |
+| 7 | 0 | Bronze V | Silver I | 0 |
+| 8 | 0 | Bronze V | Silver I | 0 |
+| 9 | 0 | Bronze V | Silver I | 0 |
+| 10 | 0.0000086 | Bronze V | Silver I | 0 |
+| 11 | 0.0000086 | Bronze V | Silver I | 0 |
+| 12 | 0.0000086 | Bronze V | Silver I | 0 |
+| 13 | 0.0000086 | Bronze V | Silver I | 0 |
+| 14 | 0.0000086 | Bronze V | Silver I | 0 |
+| 15 | 0.0000086 | Bronze V | Silver I | 0 |
+| 16 | 0.0000086 | Bronze V | Silver I | 0 |
+| 17 | 0.0000345 | Bronze V | Silver I | 0 |
+| 18 | 0.000052 | Bronze V | Silver I | 0 |
+| 19 | 0.0000947 | Bronze V | Silver I | 0 |
+| 20 | 0.0001120 | Bronze V | Silver I | 0 |
+| 21 | 0.0001120 | Bronze V | Silver I | 0 |
+| 22 | 0.000129 | Bronze V | Silver I | 0 |
+| 23 | 0.0001378 | Bronze V | Silver I | 0 |
+| 24 | 0.000181 | Bronze V | Silver I | 0 |
+| 25 | 0.0003015 | Bronze V | Silver I | 0 |
+| 26 | 0.0004824 | Bronze V | Silver I | 0 |
+| 27 | 0.0006546 | Bronze V | Silver I | 0 |
+| 28 | 0.0008872 | Bronze V | Silver I | 0 |
+| 29 | 0.0014040 | Bronze V | Silver I | 100 |
+| 30 | 0.002145 | Bronze V | Silver I | 200 |
+| 31 | 0.003230 | Bronze V | Silver I | 300 |
+| 32 | 0.0047891 | Bronze V | Silver I | 500 |
+| 33 | 0.0068822 | Bronze V | Silver I | 600 |
+| 34 | 0.0098108 | Bronze V | Silver I | 700 |
+| 35 | 0.0136265 | Bronze V | Silver I | 800 |
+| 36 | 0.0184156 | Bronze V | Silver I | 900 |
+| 37 | 0.0256165 | Bronze V | Silver I | 1100 |
+| 38 | 0.035143 | Bronze V | Silver I | 1200 |
+| 39 | 0.0472450 | Bronze V | Silver II | 1400 |
+| 40 | 0.0626201 | Bronze IV | Silver II | 1500 |
+| 41 | 0.082715 | Bronze IV | Silver III | 1700 |
+| 42 | 0.1057478 | Bronze IV | Silver III | 1900 |
+| 43 | 0.1348011 | Bronze III | Silver IV | 2000 |
+| 44 | 0.1694187 | Bronze III | Silver IV | 2200 |
+| 45 | 0.208817 | Bronze II | Silver Elite | 2400 |
+| 46 | 0.2530470 | Bronze I | Silver Elite Master | 2500 |
+| 47 | 0.3017821 | Bronze I | Silver Elite Master | 2700 |
+| 48 | 0.355100 | Silver V | Gold Nova I | 2900 |
+| 49 | 0.4114232 | Silver V | Gold Nova I | 3000 |
+| 50 | 0.4676262 | Silver IV | Gold Nova II | 3100 |
+| 51 | 0.5312627 | Silver III | Gold Nova III | 3300 |
+| 52 | 0.5908249 | Silver II | Gold Nova Master | 3400 |
+| 53 | 0.6478548 | Silver II | Gold Nova Master | 3500 |
+| 54 | 0.7014738 | Gold V | Master Guardian I | 3700 |
+| 55 | 0.7499246 | Gold V | Master Guardian I | 3800 |
+| 56 | 0.7932160 | Gold IV | Master Guardian II | 4000 |
+| 57 | 0.8320198 | Gold III | Master Guardian Elite | 4100 |
+| 58 | 0.8644323 | Gold II | Distringuished Master Guardian | 4200 |
+| 59 | 0.8919955 | Gold I | Distringuished Master Guardian | 4300 |
+| 60 | 0.913383 | Platinum V | Legendary Eagle | 4400 |
+| 61 | 0.9355367 | Platinum IV | Legendary Eagle | 4500 |
+| 62 | 0.9506792 | Platinum IV | Legendary Eagle Master | 4600 |
+| 63 | 0.9631429 | Platinum III | Legendary Eagle Master | 4700 |
+| 64 | 0.971937 | Platinum II | Supreme Master First Class | 4900 |
+| 65 | 0.9788711 | Platinum I | Supreme Master First Class | 5000 |
+| 66 | 0.9841770 | Diamond V | Supreme Master First Class | 5000 |
+| 67 | 0.9882770 | Diamond V | Supreme Master First Class | 5200 |
+| 68 | 0.991137 | Diamond V | Supreme Master First Class | 5300 |
+| 69 | 0.993126 | Diamond IV | Supreme Master First Class | 5400 |
+| 70 | 0.9945132 | Diamond IV | The Global Elite | 5500 |
+| 71 | 0.9960809 | Diamond III | The Global Elite | 5700 |
+| 72 | 0.997132 | Diamond III | The Global Elite | 5800 |
+| 73 | 0.9978380 | Diamond III | The Global Elite | 6000 |
+| 74 | 0.9984151 | Diamond II | The Global Elite | 6100 |
+| 75 | 0.9990094 | Diamond I | The Global Elite | 6300 |
+| 76 | 0.9994746 | Diamond I | The Global Elite | 6700 |
+| 77 | 0.999638 | Diamond I | The Global Elite | 6900 |
+| 78 | 0.9997847 | Diamond I | The Global Elite | 7000 |
+| 79 | 0.9999053 | Diamond I | The Global Elite | 7400 |
+| 80 | 0.9999139 | Diamond I | The Global Elite | 7400 |
+| 81 | 0.9999569 | Diamond I | The Global Elite | 7700 |
+| 82 | 0.999974 | Diamond I | The Global Elite | 8000 |
+| 83 | 0.9999914 | Diamond I | The Global Elite | 8200 |
+| 84 | 0.9999914 | Diamond I | The Global Elite | 8200 |
+| 85 | 1 | Challenger | The Global Elite | 8700 |
+| 86 | 1 | Challenger | The Global Elite | 8700 |
+| 87 | 1 | Challenger | The Global Elite | 8700 |
+| 88 | 1 | Challenger | The Global Elite | 8700 |
+| 89 | 1 | Challenger | The Global Elite | 8700 |
+| 90 | 1 | Challenger | The Global Elite | 8700 |
+| 91 | 1 | Challenger | The Global Elite | 8700 |
+| 92 | 1 | Challenger | The Global Elite | 8700 |
+| 93 | 1 | Challenger | The Global Elite | 8700 |
+| 94 | 1 | Challenger | The Global Elite | 8700 |
+| 95 | 1 | Challenger | The Global Elite | 8700 |
+| 96 | 1 | Challenger | The Global Elite | 8700 |
+| 97 | 1 | Challenger | The Global Elite | 8700 |
+| 98 | 1 | Challenger | The Global Elite | 8700 |
+| 99 | 1 | Challenger | The Global Elite | 8700 |
+| 100 | 1 | Challenger | The Global Elite | 8700 |
